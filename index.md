@@ -1,3 +1,14 @@
+---
+
+layout: col-sidebar
+title: OWASP Software Pre-Execution Security Review
+tags: example-tag
+level: 2
+type: 
+pitch: A very brief, one-line description of your project
+
+---
+
 # OWASP Software Pre-Execution Security Review
 
 OWASP Software Pre-Execution Security Review is a framework contains controls that verifies security posture of any software/application before being installed and deployed on enterprise environment. The aim of this project is to identify security threats that may arise when insecure software deployed on enterprise environment. 
